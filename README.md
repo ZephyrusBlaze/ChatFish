@@ -17,7 +17,7 @@ To get started with ChatFish, follow these steps:
 
 1. Clone this repository to your local machine:
     ```bash
-    git clone https://github.com/TheStrange-007/ChatFish.git
+    git clone https://github.com/ZephyrusBlaze/ChatFish.git
     ```
 
 2. Navigate to the project directory:
